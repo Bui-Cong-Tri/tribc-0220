@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tribc-0220
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning reactJS
